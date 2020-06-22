@@ -24,7 +24,7 @@ Você tem total liberdade para se aprofundar em um recorte específico na base, 
 **Você deve entregar um link de um repositório privado contendo sua análise num Jupyter notebook**. Esperamos um código bem documentado, 
 com a descrição da análise realizada e tópicos principais encontrados. Queremos entender o passo-a-passo do seu raciocínio, não apenas o resultado.
 
-Caso queira utilizar outras bases, nosso datasource contém informações auxiliares: [link da pasta com dicionarios de dados]
+Caso queira utilizar outras bases, nosso datasource contém informações auxiliares: https://github.com/ImpulsoGov/coronacidades-datasource/tree/master/dictionaries
 
 ## O que estamos avaliando
 
