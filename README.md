@@ -8,12 +8,7 @@ Neste desafio vamos analisar políticas adotadas por municípios brasileiros no 
 A tabela disponibilizada contém o mapeamento realizado pela ImpulsoGov de **políticas adotadas por municípios com maior número de mortes em abril/2020**.
 
 
-Com base nessas informações, queremos que construa sua análise respondendo à pergunta: **"Quais as principais diferenças das políticas adotadas nos municípios?"**
-
-Algumas perguntas norteadoras interessantes são:
-
-- Há diferença entre os tipos de políticas e os municípios que as adotadam?
-- E os períodos de adoção das políticas - seu início e fim? 
+Com base nessas informações, **queremos saber se existem padrões de comportamento quanto às políticas adotadas**. Por exemplo, todo município que obrigou o uso de máscaras já tinha, antes, fechado o comércio não essencial? Dos municípios que estão retomando atividades normais, eles abrem primeiro escolas ou primeiro comércio? Não se limite a essas perguntas, elas são apenas uma referência; queremos entender quais são as perguntas relevantes na sua opinião, e como você as responderia.
 
 Você tem total liberdade para se aprofundar em um recorte específico na base, ou trabalhar com uma visão geral.
 
